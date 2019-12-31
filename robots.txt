@@ -1,0 +1,4 @@
+Sitemap: https://www.myskinin.com/sitemap.xml
+User-agent: *
+Disallow: /contact
+Disallow: /*?comments=all
